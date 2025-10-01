@@ -1,0 +1,33 @@
+
+body {
+    font-family: "Montserrat", sans-serif;
+    /* font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal; */
+    padding: 32px;
+}
+
+.title {
+    font-size: 26px;
+    line-height: 1.5;
+    font-weight: 600;
+}
+
+.discription {
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 16px;
+    padding: 16px 32px;
+    border-radius: 4px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 400;
+    color: #fff;
+    background-color: violet;
+}
+

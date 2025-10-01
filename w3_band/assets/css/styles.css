@@ -212,12 +212,11 @@ html {
     position: relative;
     margin-top: 46.5px;
     padding-top: 50%;
-    background: url("/assets/img/slider/slider1.jpg") top center / cover no-repeat;
-    color: #fff;
+    background: url("../img/slider/slider1.jpg") top center / cover no-repeat;
+    color: #fff;    
     display: flex;
     justify-content: center;
     text-align: center;
-    font-weight: 400px;
 }
 
 #slider .text-content {
